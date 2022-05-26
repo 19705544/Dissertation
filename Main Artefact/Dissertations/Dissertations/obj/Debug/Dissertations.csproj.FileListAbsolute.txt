@@ -1,0 +1,7 @@
+C:\Users\CTThe\source\repos\Dissertations\Dissertations\bin\Debug\Dissertations.exe.config
+C:\Users\CTThe\source\repos\Dissertations\Dissertations\bin\Debug\Dissertations.exe
+C:\Users\CTThe\source\repos\Dissertations\Dissertations\bin\Debug\Dissertations.pdb
+C:\Users\CTThe\source\repos\Dissertations\Dissertations\obj\Debug\Dissertations.csprojAssemblyReference.cache
+C:\Users\CTThe\source\repos\Dissertations\Dissertations\obj\Debug\Dissertations.csproj.CoreCompileInputs.cache
+C:\Users\CTThe\source\repos\Dissertations\Dissertations\obj\Debug\Dissertations.exe
+C:\Users\CTThe\source\repos\Dissertations\Dissertations\obj\Debug\Dissertations.pdb
